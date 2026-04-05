@@ -163,8 +163,6 @@ python wokwi_extractor.py
 ```python
 BROKER = "3698a45a8d964ea5a18398d6fee3ad2d.s1.eu.hivemq.cloud"
 PORT = 8883
-USERNAME = "Capstone_project"
-PASSWORD = "Project12345"
 TOPIC = "agriot/sensor/data"
 ```
 
@@ -225,10 +223,6 @@ This project is licensed under the MIT License - see LICENSE file for details.
 ## 👤 Author
 
 **Lavanya** - [@vlavanya14](https://github.com/vlavanya14)
-
-## 📞 Contact & Support
-
-For questions or support, please open an issue on GitHub.
 
 ## 🙏 Acknowledgments
 
