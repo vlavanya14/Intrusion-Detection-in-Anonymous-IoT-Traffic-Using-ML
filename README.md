@@ -84,8 +84,6 @@ Start the interactive Streamlit dashboard:
 streamlit run app.py
 ```
 
-The dashboard opens at `http://localhost:8501` with two modes:
-
 **Upload CSV File Mode**
 - Upload network traffic logs in CSV format
 - View predictions and anomaly scores
