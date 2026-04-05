@@ -1,0 +1,6 @@
+paho-mqtt
+joblib
+scikit-learn
+streamlit
+pandas
+numpy
